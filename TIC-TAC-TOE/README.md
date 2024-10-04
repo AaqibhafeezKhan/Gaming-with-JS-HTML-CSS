@@ -18,9 +18,7 @@ This is a browser-based Tic-Tac-Toe game with two modes: Multiplayer and AI. The
 4. Track your score at the bottom of the game screen.
 
 ## How to Run:
-1. Clone the repository using the following command:
-   ```bash
-   git clone https://github.com/your-username/tic-tac-toe-game.git
+1. Download the TIC-TAC-TOE Folder
 2. Open the tic-tac-toe.html file in your browser.
 3. Start playing!
 
