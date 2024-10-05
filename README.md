@@ -10,7 +10,7 @@ Classic two-player game with a 3x3 grid.
 
 ### 2. Rock Paper Scissors
 Simple game where the player chooses between rock, paper, or scissors.  
-**Features**: Best of 5 rounds.
+**Features**: Best of 5 rounds.  
 **Repository**- https://github.com/Akki90skid/ROCK-PAPER-SCISSORS  
 **Game-link** - https://akki90skid.github.io/ROCK-PAPER-SCISSORS/
 
