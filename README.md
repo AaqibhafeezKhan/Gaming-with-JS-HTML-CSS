@@ -11,6 +11,8 @@ Classic two-player game with a 3x3 grid.
 ### 2. Rock Paper Scissors
 Simple game where the player chooses between rock, paper, or scissors.  
 **Features**: Best of 5 rounds.
+**Repository**- https://github.com/Akki90skid/ROCK-PAPER-SCISSORS  
+**Game-link** - https://akki90skid.github.io/ROCK-PAPER-SCISSORS/
 
 ### 3. Snake Game
 Build the classic snake game where the player controls a growing snake.  
