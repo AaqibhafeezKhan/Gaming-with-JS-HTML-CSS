@@ -4,7 +4,7 @@
 
 ### 1. Tic-Tac-Toe
 Classic two-player game with a 3x3 grid.  
-**Features**: Multiplayer and AI mode.
+**Features**: Multiplayer and Computer mode.
 
 ### 2. Rock Paper Scissors
 Simple game where the player chooses between rock, paper, or scissors.  
