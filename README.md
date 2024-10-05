@@ -17,7 +17,7 @@ Simple game where the player chooses between rock, paper, or scissors.
 ### 3. Snake Game
 Build the classic snake game where the player controls a growing snake.  
 **Features**: Score tracking, increasing speed.  
-**Repository**- https://github.com/Akki90skid/SNAKE-GAME
+**Repository**- https://github.com/Akki90skid/SNAKE-GAME  
 **Game-link** - https://akki90skid.github.io/SNAKE-GAME/
 
 ### 4. Memory Game (Concentration)
