@@ -5,6 +5,8 @@
 ### 1. Tic-Tac-Toe
 Classic two-player game with a 3x3 grid.  
 **Features**: Multiplayer and Computer mode.
+**Repository**- https://github.com/Akki90skid/TIC-TAC-TOE
+**Game-link** - https://akki90skid.github.io/TIC-TAC-TOE/
 
 ### 2. Rock Paper Scissors
 Simple game where the player chooses between rock, paper, or scissors.  
