@@ -28,7 +28,7 @@ Flip cards and match pairs.
 Moles pop up at random intervals, and the player must "whack" them.  
 **Features**: Timed gameplay, increasing difficulty.  
 **Repository**- https://github.com/AaqibhafeezKhan/WHACK-A-MOLE     
-**Game-link** - https://aaqibhafeezkhan.github.io/MEMORY-GAME/   
+**Game-link** - https://aaqibhafeezkhan.github.io/WHACK-A-MOLE/   
 
 ### 6. Pong
 Classic two-player paddle and ball game.  
