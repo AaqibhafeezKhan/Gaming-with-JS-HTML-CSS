@@ -21,14 +21,14 @@ Build the classic snake game where the player controls a growing snake.
 ### 4. Memory Game (Concentration)
 Flip cards and match pairs.  
 **Features**: Different levels, scoring system.
-**Repository**- https://github.com/AaqibhafeezKhan/MEMORY-GAME 
-**Game-link** - https://aaqibhafeezkhan.github.io/MEMORY-GAME/
+**Repository**- https://github.com/AaqibhafeezKhan/MEMORY-GAME  
+**Game-link** - https://aaqibhafeezkhan.github.io/MEMORY-GAME/ 
 
 ### 5. Whack-a-Mole
 Moles pop up at random intervals, and the player must "whack" them.  
 **Features**: Timed gameplay, increasing difficulty.
-**Repository**- https://github.com/AaqibhafeezKhan/MEMORY-GAME 
-**Game-link** - https://aaqibhafeezkhan.github.io/MEMORY-GAME/
+**Repository**- https://github.com/AaqibhafeezKhan/MEMORY-GAME  
+**Game-link** - https://aaqibhafeezkhan.github.io/MEMORY-GAME/ 
 
 ### 6. Pong
 Classic two-player paddle and ball game.  
