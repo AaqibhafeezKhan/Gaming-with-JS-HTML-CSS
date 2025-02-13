@@ -27,7 +27,7 @@ Flip cards and match pairs.
 ### 5. Whack-a-Mole
 Moles pop up at random intervals, and the player must "whack" them.  
 **Features**: Timed gameplay, increasing difficulty.  
-**Repository**- https://github.com/AaqibhafeezKhan/MEMORY-GAME    
+**Repository**- https://github.com/AaqibhafeezKhan/WHACK-A-MOLE     
 **Game-link** - https://aaqibhafeezkhan.github.io/MEMORY-GAME/   
 
 ### 6. Pong
